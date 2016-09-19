@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ap="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <com.androidplot.xy.XYPlot
+        android:id="@+id/plot"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        ap:label="Graph Plot"
+        ap:rangeLabel="range"
+        ap:borderColor="#000000"
+        ap:backgroundColor="#000000"
+        ap:graphBackgroundColor="#000000"
+        ap:gridBackgroundColor="#111111"
+        ap:gridPaddingLeft="20dp"
+        ap:gridPaddingRight="20dp"
+        ap:gridPaddingTop="20dp"
+        ap:gridPaddingBottom="20dp"
+        ap:labelTextSize="20sp"
+        ap:rangeLabelTextSize="13sp"
+        ap:domainLabelTextSize="13sp"
+        ap:graphMarginTop="20dp"
+        ap:graphMarginBottom="40dp"
+        ap:graphMarginLeft="15dp"
+        ap:graphMarginRight="10dp"
+        ap:graphDomainLineColor="#000000"
+        ap:graphDomainLineThickness="1dp"
+        ap:graphRangeLineColor="#000000"
+        ap:graphRangeLineThickness="1dp"
+        ap:rangeTickLabelTextSize="15sp"
+        ap:rangeOriginTickLabelTextSize="15sp"
+        ap:domainTickLabelTextSize="15sp"
+        ap:domainOriginTickLabelTextSize="15sp">
+
+    </com.androidplot.xy.XYPlot>
+
+
+</LinearLayout>

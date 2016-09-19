@@ -1,0 +1,89 @@
+See file:///C:/Users/Srinivas/Desktop/ADSP/Online/Online_L3_2/app/build/tmp/linkMatlabNativeArm64-v8aDebugAllSharedLibrary/output.txt for all output for linkMatlabNativeArm64-v8aDebugAllSharedLibrary.
+linking libmatlabNative.so failed.
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\36tjsxg218zj7jk1s9rbnxnv4\rtGetNaN.o: In function `rtGetNaN':
+C:\Android\MATLABImplementation\app\src\main\jni/rtGetNaN.c:24: multiple definition of `rtGetNaN'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\172gyxo5kcrpmrl0zobc2pvvd\rtGetNaN.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rtGetNaN.c:24: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\36tjsxg218zj7jk1s9rbnxnv4\rtGetNaN.o: In function `rtGetNaN':
+C:\Android\MATLABImplementation\app\src\main\jni/rtGetNaN.c:24: multiple definition of `rtGetNaNF'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\172gyxo5kcrpmrl0zobc2pvvd\rtGetNaN.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rtGetNaN.c:24: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\43y3o01nizpvzozq30lz4janc\MatlabNative.o: In function `Java_com_dsp_matlab_Filters_compute':
+C:\Android\MATLABImplementation\app\src\main\jni/MatlabNative.c:13: multiple definition of `Java_com_dsp_matlab_Filters_compute'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\3jd3j4yatyt0yvbbk1rrumcre\MatlabNative.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/MatlabNative.c:14: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\43y3o01nizpvzozq30lz4janc\MatlabNative.o: In function `Java_com_dsp_matlab_Filters_compute':
+C:\Android\MATLABImplementation\app\src\main\jni/MatlabNative.c:13: multiple definition of `Java_com_dsp_matlab_Filters_initialize'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\3jd3j4yatyt0yvbbk1rrumcre\MatlabNative.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/MatlabNative.c:14: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\43y3o01nizpvzozq30lz4janc\MatlabNative.o: In function `Java_com_dsp_matlab_Filters_compute':
+C:\Android\MATLABImplementation\app\src\main\jni/MatlabNative.c:13: multiple definition of `Java_com_dsp_matlab_Filters_finish'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\3jd3j4yatyt0yvbbk1rrumcre\MatlabNative.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/MatlabNative.c:14: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\9uoftbps0plsbebs244ji5ypn\L3_2_emxutil.o: In function `emxEnsureCapacity':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxutil.c:25: multiple definition of `emxEnsureCapacity'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\43axv0z9gy1hby3g5cxoyzjle\L3_2_emxutil.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxutil.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\9uoftbps0plsbebs244ji5ypn\L3_2_emxutil.o: In function `emxEnsureCapacity':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxutil.c:25: multiple definition of `emxFree_real32_T'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\43axv0z9gy1hby3g5cxoyzjle\L3_2_emxutil.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxutil.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\9uoftbps0plsbebs244ji5ypn\L3_2_emxutil.o: In function `emxEnsureCapacity':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxutil.c:25: multiple definition of `emxInit_real32_T'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\43axv0z9gy1hby3g5cxoyzjle\L3_2_emxutil.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxutil.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\at9ttbl9o3r6af60ssj19zjpm\rt_nonfinite.o: In function `rt_InitInfAndNaN':
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rt_nonfinite.c:33: multiple definition of `rt_InitInfAndNaN'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\87funbgpidlb1a3tnngg33th9\rt_nonfinite.o:C:\Android\MATLABImplementation\app\src\main\jni/rt_nonfinite.c:33: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\at9ttbl9o3r6af60ssj19zjpm\rt_nonfinite.o: In function `rt_InitInfAndNaN':
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rt_nonfinite.c:33: multiple definition of `rtIsInf'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\87funbgpidlb1a3tnngg33th9\rt_nonfinite.o:C:\Android\MATLABImplementation\app\src\main\jni/rt_nonfinite.c:33: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\at9ttbl9o3r6af60ssj19zjpm\rt_nonfinite.o: In function `rt_InitInfAndNaN':
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rt_nonfinite.c:33: multiple definition of `rtIsInfF'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\87funbgpidlb1a3tnngg33th9\rt_nonfinite.o:C:\Android\MATLABImplementation\app\src\main\jni/rt_nonfinite.c:33: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\at9ttbl9o3r6af60ssj19zjpm\rt_nonfinite.o: In function `rt_InitInfAndNaN':
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rt_nonfinite.c:33: multiple definition of `rtIsNaN'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\87funbgpidlb1a3tnngg33th9\rt_nonfinite.o:C:\Android\MATLABImplementation\app\src\main\jni/rt_nonfinite.c:33: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\at9ttbl9o3r6af60ssj19zjpm\rt_nonfinite.o: In function `rt_InitInfAndNaN':
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rt_nonfinite.c:33: multiple definition of `rtIsNaNF'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\87funbgpidlb1a3tnngg33th9\rt_nonfinite.o:C:\Android\MATLABImplementation\app\src\main\jni/rt_nonfinite.c:33: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bhapbopkjfs4zxx74s2xz2c53\L3_2_emxAPI.o: In function `emxCreateND_real32_T':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxAPI.c:25: multiple definition of `emxCreateND_real32_T'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\2mathvsw363lf5t2vywhzoj95\L3_2_emxAPI.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxAPI.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bhapbopkjfs4zxx74s2xz2c53\L3_2_emxAPI.o: In function `emxCreateND_real32_T':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxAPI.c:25: multiple definition of `emxCreateWrapperND_real32_T'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\2mathvsw363lf5t2vywhzoj95\L3_2_emxAPI.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxAPI.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bhapbopkjfs4zxx74s2xz2c53\L3_2_emxAPI.o: In function `emxCreateND_real32_T':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxAPI.c:25: multiple definition of `emxCreateWrapper_real32_T'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\2mathvsw363lf5t2vywhzoj95\L3_2_emxAPI.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxAPI.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bhapbopkjfs4zxx74s2xz2c53\L3_2_emxAPI.o: In function `emxCreateND_real32_T':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxAPI.c:25: multiple definition of `emxCreate_real32_T'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\2mathvsw363lf5t2vywhzoj95\L3_2_emxAPI.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxAPI.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bhapbopkjfs4zxx74s2xz2c53\L3_2_emxAPI.o: In function `emxCreateND_real32_T':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxAPI.c:25: multiple definition of `emxDestroyArray_real32_T'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\2mathvsw363lf5t2vywhzoj95\L3_2_emxAPI.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxAPI.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bhapbopkjfs4zxx74s2xz2c53\L3_2_emxAPI.o: In function `emxCreateND_real32_T':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2_emxAPI.c:25: multiple definition of `emxInitArray_real32_T'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\2mathvsw363lf5t2vywhzoj95\L3_2_emxAPI.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_emxAPI.c:25: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\d5vstp6riu0a6e02hoyn0fzmq\L3_2.o: In function `L3_2':
+C:\Android\MATLABImplementation\app\src\main\jni/L3_2.c:32: multiple definition of `L3_2'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bi0re5xgk1urr0aybyforutf8\L3_2.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2.c:32: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\d5vstp6riu0a6e02hoyn0fzmq\L3_2.o: In function `L3_2_free':
+L3_2.c:(.text.L3_2_free+0x0): multiple definition of `L3_2_free'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bi0re5xgk1urr0aybyforutf8\L3_2.o:L3_2.c:(.text.L3_2_free+0x0): first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\d5vstp6riu0a6e02hoyn0fzmq\L3_2.o: In function `L3_2_init':
+L3_2.c:(.text.L3_2_init+0x0): multiple definition of `L3_2_init'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\bi0re5xgk1urr0aybyforutf8\L3_2.o:L3_2.c:(.text.L3_2_init+0x0): first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\d6435gmgbrmf0zfubmv3vyaz5\rtGetInf.o: In function `rtGetInf':
+C:\Android\MATLABImplementation\app\src\main\jni/rtGetInf.c:24: multiple definition of `rtGetInf'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\5ipf5nxkgj5ic54zxlutjidmh\rtGetInf.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rtGetInf.c:24: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\d6435gmgbrmf0zfubmv3vyaz5\rtGetInf.o: In function `rtGetInf':
+C:\Android\MATLABImplementation\app\src\main\jni/rtGetInf.c:24: multiple definition of `rtGetInfF'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\5ipf5nxkgj5ic54zxlutjidmh\rtGetInf.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rtGetInf.c:24: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\d6435gmgbrmf0zfubmv3vyaz5\rtGetInf.o: In function `rtGetInf':
+C:\Android\MATLABImplementation\app\src\main\jni/rtGetInf.c:24: multiple definition of `rtGetMinusInf'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\5ipf5nxkgj5ic54zxlutjidmh\rtGetInf.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rtGetInf.c:24: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\d6435gmgbrmf0zfubmv3vyaz5\rtGetInf.o: In function `rtGetInf':
+C:\Android\MATLABImplementation\app\src\main\jni/rtGetInf.c:24: multiple definition of `rtGetMinusInfF'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\5ipf5nxkgj5ic54zxlutjidmh\rtGetInf.o:C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/rtGetInf.c:24: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\du5k3te8ox0e42k8j5sxn4t1\L3_2_initialize.o: In function `L3_2_initialize':
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_initialize.c:23: multiple definition of `L3_2_initialize'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\50r1pkm1skhkqrnhinyxpju8a\L3_2_initialize.o:C:\Android\MATLABImplementation\app\src\main\jni/L3_2_initialize.c:23: first defined here
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\ewsy5o8zuvqsnptgu98s914ge\L3_2_terminate.o: In function `L3_2_terminate':
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\jni/L3_2_terminate.c:23: multiple definition of `L3_2_terminate'
+C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\build\intermediates\objectFiles\arm64-v8aDebugAllSharedLibrary\matlabNativeMainC\9in4u402l144wxb3nzg6cf4fg\L3_2_terminate.o:C:\Android\MATLABImplementation\app\src\main\jni/L3_2_terminate.c:23: first defined here
+collect2.exe: error: ld returned 1 exit status
+
+Finished linkMatlabNativeArm64-v8aDebugAllSharedLibrary, see full log file:///C:/Users/Srinivas/Desktop/ADSP/Online/Online_L3_2/app/build/tmp/linkMatlabNativeArm64-v8aDebugAllSharedLibrary/output.txt.

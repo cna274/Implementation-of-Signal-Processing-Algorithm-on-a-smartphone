@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Android\MATLABImplementation\app\src\main\res"/><source path="C:\Android\MATLABImplementation\app\build\generated\res\rs\all\debug"/><source path="C:\Android\MATLABImplementation\app\build\generated\res\resValues\all\debug"/></dataSet><dataSet config="all$Generated" generated="true"><source path="C:\Android\MATLABImplementation\app\src\all\res"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Android\MATLABImplementation\app\src\debug\res"/></dataSet><dataSet config="allDebug$Generated" generated="true"><source path="C:\Android\MATLABImplementation\app\src\allDebug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Android\MATLABImplementation\app\src\main\res"><file name="recorder" path="C:\Android\MATLABImplementation\app\src\main\res\layout\recorder.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Android\MATLABImplementation\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Android\MATLABImplementation\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Android\MATLABImplementation\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Android\MATLABImplementation\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Android\MATLABImplementation\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Android\MATLABImplementation\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="debugOptions">
+    <item>All</item>
+    <item>Text file</item>
+    <item>PCM</item>
+    <item>None</item>
+</string-array><string-array name="outputValues">
+    <item>1</item>
+    <item>2</item>
+</string-array><string-array name="outputOptions">
+    <item>Original</item>
+    <item>Filtered</item>
+</string-array><string-array name="FrameOptions">
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4196</item>
+    </string-array><string-array name="debugValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+</string-array><string-array name="FrameValues">
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4196</item>
+    </string-array></file><file path="C:\Android\MATLABImplementation\app\src\main\res\values\strings.xml" qualifiers=""><string name="start">Start</string><string name="file">Read File</string><string name="stop">Stop</string><string name="app_name">Matlab Implementation</string><string name="settings">Settings</string></file><file path="C:\Android\MATLABImplementation\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file name="prefs" path="C:\Android\MATLABImplementation\app\src\main\res\xml\prefs.xml" qualifiers="" type="xml"/></source><source path="C:\Android\MATLABImplementation\app\build\generated\res\rs\all\debug"/><source path="C:\Android\MATLABImplementation\app\build\generated\res\resValues\all\debug"/></dataSet><dataSet config="all" generated-set="all$Generated"><source path="C:\Android\MATLABImplementation\app\src\all\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Android\MATLABImplementation\app\src\debug\res"/></dataSet><dataSet config="allDebug" generated-set="allDebug$Generated"><source path="C:\Android\MATLABImplementation\app\src\allDebug\res"/></dataSet><mergedItems/></merger>

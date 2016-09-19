@@ -1,0 +1,46 @@
+<resources>
+
+<string-array name="debugOptions">
+    <item>All</item>
+    <item>Text file</item>
+    <item>PCM</item>
+    <item>None</item>
+</string-array>
+
+<string-array name="debugValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+</string-array>
+
+    <string-array name="FrameOptions">
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4196</item>
+    </string-array>
+
+    <string-array name="FrameValues">
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4196</item>
+    </string-array>
+
+
+<string-array name="outputOptions">
+    <item>Original</item>
+    <item>Filtered</item>
+</string-array>
+
+<string-array name="outputValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+
+</resources>

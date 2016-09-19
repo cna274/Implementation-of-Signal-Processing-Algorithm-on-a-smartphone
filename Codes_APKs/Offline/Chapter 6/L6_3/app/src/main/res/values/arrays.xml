@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listentries">
+        <item>Key tone</item>
+        <item>Busy/Ringing Tone</item>
+
+    </string-array>
+    <string-array name="listvalues">
+        <item>1</item>
+        <item>2</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" > 
+ <PreferenceCategory
+   android:summary="Filtering Parameters"
+   android:title="Settings" >
+  
+	<CheckBoxPreference
+     android:key="playback"
+     android:defaultValue="false"
+     android:summary="Disable when recording."
+     android:title="Output audio to speaker?" />
+	
+	<ListPreference 
+    android:key="outputstream"
+    android:title="Output to playback"
+    android:summary="Default: Filtered"
+    android:defaultValue="2"
+    android:entries="@array/outputOptions"
+    android:entryValues="@array/outputValues"/>
+	
+	<ListPreference
+     android:key="samplingfreq"
+     android:defaultValue="8000"
+     android:summary="Default: 8000 Hz"
+     android:title="Sampling Frequency" />
+
+  <ListPreference
+      android:key="blockSize"
+      android:defaultValue="256"
+      android:summary="Default: 256"
+      android:title="FrameSize"
+      android:entries="@array/FrameOptions"
+      android:entryValues="@array/frameValues"/>
+
+  <ListPreference
+    android:key="debug"
+    android:title="Debugging Level"
+    android:summary="Default: None"
+    android:defaultValue="4"
+    android:entries="@array/debugOptions"
+    android:entryValues="@array/debugValues"/>
+
+
+
+  	
+ </PreferenceCategory>
+</PreferenceScreen>

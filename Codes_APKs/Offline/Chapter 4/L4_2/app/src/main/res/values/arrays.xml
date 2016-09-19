@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listentries">
+        <item>input</item>
+        <item>an</item>
+        <item>bn</item>
+        <item>VCcos_m</item>
+        <item>VCcos_a</item>
+        <item>VCsin_m</item>
+        <item>VCsin_a</item>>
+
+    </string-array>
+    <string-array name="listvalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+
+    </string-array>
+
+</resources>

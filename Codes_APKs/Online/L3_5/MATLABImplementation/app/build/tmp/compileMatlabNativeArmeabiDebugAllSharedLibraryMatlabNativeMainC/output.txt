@@ -1,0 +1,22 @@
+See file:///C:/Android/MATLABImplementation/app/build/tmp/compileMatlabNativeArmeabiDebugAllSharedLibraryMatlabNativeMainC/output.txt for all output for compileMatlabNativeArmeabiDebugAllSharedLibraryMatlabNativeMainC.
+compiling L3_5_emxutil.c successful.
+
+compiling conv.c successful.
+
+compiling L3_5.c successful.
+
+compiling exp.c successful.
+
+compiling L3_5_initialize.c successful.
+
+compiling MatlabNative.c successful.
+
+compiling L3_5_terminate.c successful.
+
+compiling rtGetInf.c successful.
+
+compiling rtGetNaN.c successful.
+
+compiling rt_nonfinite.c successful.
+
+Finished compileMatlabNativeArmeabiDebugAllSharedLibraryMatlabNativeMainC, see full log file:///C:/Android/MATLABImplementation/app/build/tmp/compileMatlabNativeArmeabiDebugAllSharedLibraryMatlabNativeMainC/output.txt.

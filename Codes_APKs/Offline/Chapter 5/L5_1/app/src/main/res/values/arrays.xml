@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listentries">
+        <item>x</item>
+        <item>x1</item>
+        <item>x2</item>
+        <item>x3</item>
+        <item>y1_mag</item>
+        <item>y1_phase</item>
+        <item>y2_mag</item>
+        <item>y2_phase</item>
+        <item>y3_mag</item>
+        <item>y3_phase</item>
+        <item>y_mag</item>
+        <item>y_phase</item>
+    </string-array>
+    <string-array name="listvalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="listentries_1">
+        <item>x1+x2</item>
+        <item>conv(x1,x2)</item>
+        <item>x1*x2</item>
+    </string-array>
+    <string-array name="listvalues_1">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="listentries_2">
+        <item>y1+y2</item>
+        <item>conv(y1,y2)</item>
+        <item>y1*y2</item>
+    </string-array>
+    <string-array name="listvalues_2">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="listentries_3">
+        <item>unit step func</item>
+        <item>step function(amp changed)</item>
+        <item>exp func</item>
+    </string-array>
+    <string-array name="listvalues_3">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+    <string-array name="listentries_4">
+        <item>unit step func</item>
+        <item>step function(amp changed)</item>
+        <item>exp func</item>
+    </string-array>
+    <string-array name="listvalues_4">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,20 @@
+See file:///C:/Users/Srinivas/Desktop/ADSP/Online/Online_L3_2/app/build/tmp/compileMatlabNativeArm64-v8aDebugAllSharedLibraryMatlabNativeMainC/output.txt for all output for compileMatlabNativeArm64-v8aDebugAllSharedLibraryMatlabNativeMainC.
+compiling L3_2.c successful.
+
+compiling L3_2_emxutil.c successful.
+
+compiling L3_2_emxAPI.c successful.
+
+compiling L3_2_initialize.c successful.
+
+compiling rtGetInf.c successful.
+
+compiling MatlabNative.c successful.
+
+compiling L3_2_terminate.c successful.
+
+compiling rt_nonfinite.c successful.
+
+compiling rtGetNaN.c successful.
+
+Finished compileMatlabNativeArm64-v8aDebugAllSharedLibraryMatlabNativeMainC, see full log file:///C:/Users/Srinivas/Desktop/ADSP/Online/Online_L3_2/app/build/tmp/compileMatlabNativeArm64-v8aDebugAllSharedLibraryMatlabNativeMainC/output.txt.

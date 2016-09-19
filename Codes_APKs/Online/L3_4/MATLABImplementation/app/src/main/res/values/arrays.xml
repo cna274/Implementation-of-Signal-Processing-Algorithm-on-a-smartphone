@@ -1,0 +1,45 @@
+<resources>
+
+<string-array name="debugOptions">
+    <item>All</item>
+    <item>Text file</item>
+    <item>PCM</item>
+    <item>None</item>
+</string-array>
+
+<string-array name="debugValues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+</string-array>
+
+    <string-array name="Options">
+        <item>(h1*input)*h2</item>
+        <item>(h2*input)*h1</item>
+        <item>(input*h1)*h2</item>
+        <item>(h2*h1)*input</item>
+        <item>(h2+h1)*input</item>
+        <item>(h1*in)+(h2*in)</item>
+    </string-array>
+
+    <string-array name="Values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+<string-array name="outputOptions">
+    <item>Original</item>
+    <item>Filtered</item>
+</string-array>
+
+<string-array name="outputValues">
+    <item>1</item>
+    <item>2</item>
+</string-array>
+
+</resources>

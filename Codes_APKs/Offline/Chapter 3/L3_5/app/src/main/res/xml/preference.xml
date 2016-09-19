@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Graph">
+        <ListPreference
+            android:key="PREF_LIST"
+            android:title="Select Circuit"
+            android:summary="Select the circuit to plot Graph"
+            android:entries="@array/listentries"
+            android:entryValues="@array/listvalues" />
+
+        <EditTextPreference
+            android:key="A"
+            android:defaultValue="1"
+            android:gravity="left"
+            android:inputType="number"
+            android:summary="Amplitude"
+            android:title="Signal Amplitude" />
+
+        <EditTextPreference
+            android:key="R"
+            android:defaultValue="1"
+            android:gravity="left"
+            android:inputType="number"
+            android:summary="value"
+            android:title="Resistance Value" />
+
+        <EditTextPreference
+            android:key="L"
+            android:defaultValue="1"
+            android:gravity="left"
+            android:inputType="number"
+            android:summary="value"
+            android:title="Inductor Value" />
+
+        <EditTextPreference
+            android:key="C"
+            android:defaultValue="1"
+            android:gravity="left"
+            android:inputType="number"
+            android:summary="value"
+            android:title="Capacitor Value" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

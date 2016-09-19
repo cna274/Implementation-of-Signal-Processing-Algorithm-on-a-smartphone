@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.dsp.helloworld.MainActivity"
+    android:theme="@style/AppTheme.AppBarOverlay">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Music Synthesizer"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#010000" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Compute"
+        android:id="@+id/btncompute"
+        android:layout_alignTop="@+id/setpreference"
+        android:layout_alignRight="@+id/setting_list"
+        android:layout_alignEnd="@+id/setting_list" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/tvresult"
+        android:textColor="#070000"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="36dp"
+        android:layout_below="@+id/setpreference" />
+
+    <Button
+        android:id="@+id/setpreference"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Graph"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/textView"
+        android:layout_toStartOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/setting_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="A1"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/textView"
+        android:layout_toRightOf="@+id/tvresult"
+        android:layout_toEndOf="@+id/tvresult"
+        android:textColor="#080101" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="A2"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView"
+        android:layout_toRightOf="@+id/textView2"
+        android:layout_toEndOf="@+id/textView2"
+        android:layout_marginLeft="34dp"
+        android:layout_marginStart="34dp"
+        android:textColor="#060101" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etA1value"
+        android:layout_below="@+id/textView2"
+        android:layout_toLeftOf="@+id/textView3"
+        android:layout_toStartOf="@+id/textView3"
+        android:textColor="#140505"
+        android:text="1" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etA2value"
+        android:layout_alignTop="@+id/etA1value"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_toLeftOf="@+id/textView"
+        android:layout_toStartOf="@+id/textView"
+        android:textColor="#110b0b"
+        android:text="1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="A3"
+        android:id="@+id/textView4"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginLeft="19dp"
+        android:layout_marginStart="19dp"
+        android:textColor="#0d0c0c" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="A4"
+        android:id="@+id/textView5"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:textColor="#110202" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="A5"
+        android:id="@+id/textView6"
+        android:textColor="#0b0202"
+        android:layout_above="@+id/etA2value"
+        android:layout_toLeftOf="@+id/btncompute"
+        android:layout_toStartOf="@+id/btncompute"
+        android:layout_marginRight="23dp"
+        android:layout_marginEnd="23dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="A6"
+        android:id="@+id/textView7"
+        android:layout_above="@+id/etA2value"
+        android:layout_toRightOf="@+id/textView6"
+        android:layout_toEndOf="@+id/textView6"
+        android:textColor="#070101" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etA3value"
+        android:text="1"
+        android:textColor="#0c0202"
+        android:layout_alignTop="@+id/etA2value"
+        android:layout_alignLeft="@+id/textView4"
+        android:layout_alignStart="@+id/textView4"
+        android:layout_alignRight="@+id/textView4"
+        android:layout_alignEnd="@+id/textView4" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etA4value"
+        android:layout_alignTop="@+id/etA3value"
+        android:layout_alignLeft="@+id/textView5"
+        android:layout_alignStart="@+id/textView5"
+        android:text="1"
+        android:textColor="#090808"
+        android:layout_alignRight="@+id/textView5"
+        android:layout_alignEnd="@+id/textView5" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etA5value"
+        android:layout_alignTop="@+id/etA4value"
+        android:layout_alignLeft="@+id/textView6"
+        android:layout_alignStart="@+id/textView6"
+        android:text="1"
+        android:textColor="#0a0000"
+        android:layout_alignRight="@+id/textView6"
+        android:layout_alignEnd="@+id/textView6" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etA6value"
+        android:layout_alignTop="@+id/etA5value"
+        android:layout_toRightOf="@+id/textView"
+        android:text="1"
+        android:textColor="#070000"
+        android:layout_alignRight="@+id/textView7"
+        android:layout_alignEnd="@+id/textView7" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Freq1"
+        android:id="@+id/textView8"
+        android:layout_below="@+id/etA1value"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#0b0101" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Freq2"
+        android:id="@+id/textView9"
+        android:textColor="#110000"
+        android:layout_above="@+id/textView10"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Freq3"
+        android:id="@+id/textView10"
+        android:textColor="#100101"
+        android:layout_above="@+id/setpreference"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="33dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etB1value"
+        android:layout_below="@+id/etA2value"
+        android:layout_alignLeft="@+id/etA2value"
+        android:layout_alignStart="@+id/etA2value"
+        android:layout_alignRight="@+id/etA3value"
+        android:layout_alignEnd="@+id/etA3value"
+        android:textColor="#100101"
+        android:text="20" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etB2value"
+        android:layout_alignTop="@+id/textView9"
+        android:layout_alignLeft="@+id/etB1value"
+        android:layout_alignStart="@+id/etB1value"
+        android:layout_alignRight="@+id/etA3value"
+        android:layout_alignEnd="@+id/etA3value"
+        android:textColor="#170202"
+        android:text="30" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etB3value"
+        android:layout_alignTop="@+id/textView10"
+        android:layout_alignRight="@+id/etB2value"
+        android:layout_alignEnd="@+id/etB2value"
+        android:layout_toEndOf="@+id/textView3"
+        android:layout_alignLeft="@+id/etB2value"
+        android:layout_alignStart="@+id/etB2value"
+        android:textColor="#050000"
+        android:text="40" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Freq4"
+        android:id="@+id/textView11"
+        android:layout_below="@+id/etA4value"
+        android:layout_alignLeft="@+id/etA4value"
+        android:layout_alignStart="@+id/etA4value"
+        android:textColor="#070000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Freq5"
+        android:id="@+id/textView12"
+        android:layout_alignTop="@+id/etB2value"
+        android:layout_alignLeft="@+id/textView11"
+        android:layout_alignStart="@+id/textView11"
+        android:textColor="#0c0101" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Freq6"
+        android:id="@+id/textView13"
+        android:layout_below="@+id/etB2value"
+        android:layout_alignLeft="@+id/textView12"
+        android:layout_alignStart="@+id/textView12"
+        android:textColor="#0a0101" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etB4value"
+        android:layout_below="@+id/etA5value"
+        android:layout_alignLeft="@+id/etA5value"
+        android:layout_alignStart="@+id/etA5value"
+        android:text="50"
+        android:textColor="#120101" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etB5value"
+        android:layout_alignTop="@+id/textView12"
+        android:layout_alignLeft="@+id/etB4value"
+        android:layout_alignStart="@+id/etB4value"
+        android:text="60"
+        android:textColor="#010000" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etB6value"
+        android:layout_alignTop="@+id/etB3value"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/etB5value"
+        android:layout_alignStart="@+id/etB5value"
+        android:text="70"
+        android:textColor="#100101" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Option"
+        android:id="@+id/textView14"
+        android:textColor="#0b0000"
+        android:layout_above="@+id/etA6value"
+        android:layout_alignRight="@+id/btncompute"
+        android:layout_alignEnd="@+id/btncompute" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/etFvalue"
+        android:layout_alignTop="@+id/etA6value"
+        android:layout_alignLeft="@+id/textView14"
+        android:layout_alignStart="@+id/textView14"
+        android:textColor="#0b0101"
+        android:text="1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Solution:"
+        android:id="@+id/textView15"
+        android:layout_below="@+id/setpreference"
+        android:layout_toRightOf="@+id/tvresult"
+        android:layout_toEndOf="@+id/tvresult"
+        android:textColor="#000000" />
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+See file:///C:/Android/MATLABImplementation/app/build/tmp/compileMatlabNativeArm64-v8aDebugAllSharedLibraryMatlabNativeMainC/output.txt for all output for compileMatlabNativeArm64-v8aDebugAllSharedLibraryMatlabNativeMainC.
+compiling L3_4_initialize.c successful.
+
+compiling conv.c successful.
+
+compiling L3_4.c successful.
+
+compiling L3_4_emxutil.c successful.
+
+compiling rtGetInf.c successful.
+
+compiling rtGetNaN.c successful.
+
+compiling rt_nonfinite.c successful.
+
+compiling L3_4_terminate.c successful.
+
+compiling MatlabNative.c successful.
+
+Finished compileMatlabNativeArm64-v8aDebugAllSharedLibraryMatlabNativeMainC, see full log file:///C:/Android/MATLABImplementation/app/build/tmp/compileMatlabNativeArm64-v8aDebugAllSharedLibraryMatlabNativeMainC/output.txt.

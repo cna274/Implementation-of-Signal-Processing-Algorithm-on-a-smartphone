@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listentries">
+        <item>y1</item>
+        <item>y2</item>
+        <item>y3</item>
+        <item>y4</item>
+        <item>y5</item>
+        <item>y6</item>
+        <item>x</item>
+        <item>h1</item>
+        <item>h2</item>
+    </string-array>
+    <string-array name="listvalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>

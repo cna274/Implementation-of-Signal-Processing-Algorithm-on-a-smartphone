@@ -1,0 +1,454 @@
+[
+    {
+        "outputFile": "C:\\Android\\Online_L3_3\\app\\build\\intermediates\\res\\merged\\all\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 15,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 15,
+                        "endLine": 7,
+                        "endColumn": 15,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endLine": 13,
+                    "endColumn": 15,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 165,
+                        "endLine": 14,
+                        "endColumn": 15,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endLine": 17,
+                    "endColumn": 15,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 299,
+                        "endLine": 19,
+                        "endColumn": 15,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endLine": 21,
+                    "endColumn": 15,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 409,
+                        "endLine": 24,
+                        "endColumn": 15,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 58,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 42,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 79,
+                        "endColumn": 42,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 45,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 45,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 39,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 39,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 37,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 37,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Android\\MATLABImplementation\\app\\build\\intermediates\\res\\merged\\all\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 15,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 15,
+                        "endLine": 7,
+                        "endColumn": 15,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endLine": 13,
+                    "endColumn": 15,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 165,
+                        "endLine": 14,
+                        "endColumn": 15,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endLine": 17,
+                    "endColumn": 15,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 299,
+                        "endLine": 19,
+                        "endColumn": 15,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endLine": 21,
+                    "endColumn": 15,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 409,
+                        "endLine": 24,
+                        "endColumn": 15,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 58,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 42,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 79,
+                        "endColumn": 42,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 45,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 45,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 39,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 39,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 37,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 37,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

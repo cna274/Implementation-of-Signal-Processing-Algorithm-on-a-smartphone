@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\Online_L3_3\\app\\build\\intermediates\\res\\merged\\all\\debug\\xml\\prefs.xml",
+        "source": "C:\\Android\\Online_L3_3\\app\\src\\main\\res\\xml\\prefs.xml"
+    },
+    {
+        "merged": "C:\\Android\\MATLABImplementation\\app\\build\\intermediates\\res\\merged\\all\\debug\\xml\\prefs.xml",
+        "source": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\xml\\prefs.xml"
+    }
+]

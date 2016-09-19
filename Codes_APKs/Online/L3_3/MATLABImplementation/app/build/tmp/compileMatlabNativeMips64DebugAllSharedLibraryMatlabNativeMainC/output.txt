@@ -1,0 +1,20 @@
+See file:///C:/Android/MATLABImplementation/app/build/tmp/compileMatlabNativeMips64DebugAllSharedLibraryMatlabNativeMainC/output.txt for all output for compileMatlabNativeMips64DebugAllSharedLibraryMatlabNativeMainC.
+compiling L3_3.c successful.
+
+compiling L3_3_emxAPI.c successful.
+
+compiling L3_3_initialize.c successful.
+
+compiling L3_3_emxutil.c successful.
+
+compiling L3_3_terminate.c successful.
+
+compiling rtGetNaN.c successful.
+
+compiling rtGetInf.c successful.
+
+compiling MatlabNative.c successful.
+
+compiling rt_nonfinite.c successful.
+
+Finished compileMatlabNativeMips64DebugAllSharedLibraryMatlabNativeMainC, see full log file:///C:/Android/MATLABImplementation/app/build/tmp/compileMatlabNativeMips64DebugAllSharedLibraryMatlabNativeMainC/output.txt.

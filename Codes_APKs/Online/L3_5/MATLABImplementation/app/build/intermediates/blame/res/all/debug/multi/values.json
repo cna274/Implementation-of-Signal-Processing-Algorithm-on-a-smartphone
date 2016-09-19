@@ -1,0 +1,187 @@
+[
+    {
+        "outputFile": "C:\\Android\\MATLABImplementation\\app\\build\\intermediates\\res\\merged\\all\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endLine": 23,
+                        "endColumn": 19,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 32,
+                        "endColumn": 19,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endLine": 23,
+                    "endColumn": 15,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endLine": 29,
+                    "endColumn": 15,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endLine": 33,
+                    "endColumn": 15,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endLine": 37,
+                    "endColumn": 15,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 58,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 42,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 45,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 39,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endColumn": 37,
+                    "endOffset": 1176
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1181,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 1627
+                },
+                "from": {
+                    "file": "C:\\Android\\MATLABImplementation\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

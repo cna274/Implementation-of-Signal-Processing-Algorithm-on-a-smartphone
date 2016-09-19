@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Android\MATLABImplementation\app\src\main\jniLibs"/></dataSet><dataSet config="all"><source path="C:\Android\MATLABImplementation\app\src\all\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Android\MATLABImplementation\app\src\debug\jniLibs"/></dataSet><dataSet config="allDebug"><source path="C:\Android\MATLABImplementation\app\src\allDebug\jniLibs"/></dataSet></merger>

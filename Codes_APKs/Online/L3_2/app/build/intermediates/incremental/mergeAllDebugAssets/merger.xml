@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\main\assets"/></dataSet><dataSet config="all"><source path="C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\all\assets"/></dataSet><dataSet config="debug"><source path="C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\debug\assets"/></dataSet><dataSet config="allDebug"><source path="C:\Users\Srinivas\Desktop\ADSP\Online\Online_L3_2\app\src\allDebug\assets"/></dataSet></merger>

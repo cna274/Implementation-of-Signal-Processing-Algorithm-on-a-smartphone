@@ -1,0 +1,4 @@
+See file:///C:/Android/MATLABImplementation/app/build/tmp/compileMatlabNativeX86_64DebugAllSharedLibraryMatlabNativeMainC/output.txt for all output for compileMatlabNativeX86_64DebugAllSharedLibraryMatlabNativeMainC.
+compiling MatlabNative.c successful.
+
+Finished compileMatlabNativeX86_64DebugAllSharedLibraryMatlabNativeMainC, see full log file:///C:/Android/MATLABImplementation/app/build/tmp/compileMatlabNativeX86_64DebugAllSharedLibraryMatlabNativeMainC/output.txt.

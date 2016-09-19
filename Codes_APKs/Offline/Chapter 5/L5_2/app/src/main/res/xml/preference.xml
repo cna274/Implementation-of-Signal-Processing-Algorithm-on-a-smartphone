@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Graph">
+        <ListPreference
+            android:key="PREF_LIST"
+            android:title="Select Input"
+            android:summary="Select the Input signal to plot Graph"
+            android:entries="@array/listentries"
+            android:entryValues="@array/listvalues" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

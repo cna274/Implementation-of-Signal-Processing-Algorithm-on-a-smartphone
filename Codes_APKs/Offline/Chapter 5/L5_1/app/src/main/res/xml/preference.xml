@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Graph">
+        <ListPreference
+            android:key="PREF_LIST"
+            android:title="Select Input"
+            android:summary="Select the Input signal to plot Graph"
+            android:entries="@array/listentries"
+            android:entryValues="@array/listvalues" />
+
+        <ListPreference
+            android:key="Input_comb"
+            android:title="Input combination"
+            android:summary="Select the Input signal combination"
+            android:entries="@array/listentries_1"
+            android:entryValues="@array/listvalues_1" />
+
+
+        <ListPreference
+            android:key="Output_comb"
+            android:title="Output combination"
+            android:summary="Select the Output signal combination"
+            android:entries="@array/listentries_2"
+            android:entryValues="@array/listvalues_2" />
+
+
+        <ListPreference
+            android:key="input_type"
+            android:title="Input Type"
+            android:summary="Select the Input signal"
+            android:entries="@array/listentries_3"
+            android:entryValues="@array/listvalues_3" />
+
+
+        <ListPreference
+            android:key="input_type_2"
+            android:title="Input_2 Type"
+            android:summary="Select the Input_2 signal"
+            android:entries="@array/listentries_4"
+            android:entryValues="@array/listvalues_4" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

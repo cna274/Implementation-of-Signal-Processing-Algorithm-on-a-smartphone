@@ -1,0 +1,4 @@
+See file:///C:/Android/MATLABImplementation/app/build/tmp/linkMatlabNativeArmeabiDebugAllSharedLibrary/output.txt for all output for linkMatlabNativeArmeabiDebugAllSharedLibrary.
+linking libmatlabNative.so successful.
+
+Finished linkMatlabNativeArmeabiDebugAllSharedLibrary, see full log file:///C:/Android/MATLABImplementation/app/build/tmp/linkMatlabNativeArmeabiDebugAllSharedLibrary/output.txt.

@@ -1,0 +1,4 @@
+See file:///C:/Android/MATLABImplementation/app/build/tmp/linkMatlabNativeMips64DebugAllSharedLibrary/output.txt for all output for linkMatlabNativeMips64DebugAllSharedLibrary.
+linking libmatlabNative.so successful.
+
+Finished linkMatlabNativeMips64DebugAllSharedLibrary, see full log file:///C:/Android/MATLABImplementation/app/build/tmp/linkMatlabNativeMips64DebugAllSharedLibrary/output.txt.

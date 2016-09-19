@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L3_1</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="prefgraph">PREF_LIST</string>
+
+</resources>
